@@ -1,4 +1,4 @@
-language : java
-script : gradle test
+language :java
+script:gradle test
 before_install:
 	- chmod u+x gradlew
